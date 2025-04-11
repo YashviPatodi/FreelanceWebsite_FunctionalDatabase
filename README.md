@@ -1,4 +1,4 @@
-# TheMetGig: Connecting Talent
+# TheMetGig: Freelance Website
 
 ## Overview
 
