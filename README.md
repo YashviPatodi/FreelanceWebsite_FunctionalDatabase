@@ -2,7 +2,7 @@
 
 ## Overview
 
-TheMetGig ([https://themetgig.com/](https://themetgig.com/)) is a skill-driven freelance marketplace designed to connect clients with top talent. The platform prioritizes relevant connections, offering role-specific experiences for efficient project management.
+TheMetGig is a skill-driven freelance marketplace designed to connect clients with top talent. The platform prioritizes relevant connections, offering role-specific experiences for efficient project management.
 
 ## Key Features
 
